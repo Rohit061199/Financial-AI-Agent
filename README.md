@@ -10,3 +10,6 @@ Sample Picture:
 1. Clone the project and open it in the IDE of your choice.
 2. Do a "pip install -r requirements.txt" to install all the dependencies.
 3. Run the playground.py file to create a localhost instance of Phi-data. You have the agent ready!
+
+### Credits: 
+Krish Naik YT Channel and course on Agentic AI.
